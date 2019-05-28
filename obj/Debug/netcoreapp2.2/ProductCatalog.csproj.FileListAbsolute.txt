@@ -1,0 +1,14 @@
+/home/iocruz/dev/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.deps.json
+/home/iocruz/dev/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.json
+/home/iocruz/dev/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.dev.json
+/home/iocruz/dev/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.dll
+/home/iocruz/dev/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.pdb
+/home/iocruz/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csprojAssemblyReference.cache
+/home/iocruz/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csproj.CoreCompileInputs.cache
+/home/iocruz/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cache
+/home/iocruz/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cs
+/home/iocruz/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfoInputs.cache
+/home/iocruz/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfo.cs
+/home/iocruz/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorTargetAssemblyInfo.cache
+/home/iocruz/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.dll
+/home/iocruz/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.pdb
